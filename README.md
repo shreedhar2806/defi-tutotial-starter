@@ -1,6 +1,6 @@
 # Defi tutorial starter
 
-##Code setup
+## Code setup
 1. Clone the repo `git clone`
 2. Download link Ganache from [here](#https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.trufflesuite.com%2Fganache&event=video_description&v=CgXQC4dbGUE&redir_token=QUFFLUhqazZiNURHbGJLbVE2R3cwUXpUVTY2aTI0bTVpQXxBQ3Jtc0tuU1RtNFZDc2dwMkY4RUxFR0x4aWZtcnBmV3U0aUs3VUcxLXZ0NVZrZFJiX2lHQTNBZDFzU2xobkZlc2NJd2xtY1NJOWVzdjNOTWlVdlJOMjVTalc4ZjZ3REt2QkpWSUNtV19mOEZ2UXVqOFQwRGk1VQ%3D%3D)
 3. Install truffle module `npm install -g truffle`
